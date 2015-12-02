@@ -1,1 +1,2 @@
 print("Hello code!");
+print("Hello code!");
