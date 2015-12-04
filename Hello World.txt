@@ -1,3 +1,4 @@
 print("Hello code!");
 print("Hello code!");
 print("Hello, my deaR FREND!");
+еще одна
